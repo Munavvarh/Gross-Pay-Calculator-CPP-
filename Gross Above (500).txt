@@ -1,0 +1,14 @@
+ Sorted Data in ascending according to Grosspay Above $500: 
+___________________________________________________________________________________________________________________
+ID                             Name                  Gross pay
+===================================================================================================================
+272760                Franceschi, Justin              $506.25
+211692                       Bung, Munav              $607.50
+22295                       Plog, Daniel              $640.00
+252830                      Villa, Eduad              $722.50
+18795                     Nath, Nicholas              $730.75
+193280                   Perrone Albert               $752.25
+199593                     Galvez, Josue              $765.00
+34789                     Nelson, Nelson              $855.00
+256109                     Latero, Edwin              $881.50
+280515                  Rahman, Saminur               $911.25

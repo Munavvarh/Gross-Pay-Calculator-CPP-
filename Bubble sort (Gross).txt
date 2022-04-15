@@ -1,0 +1,23 @@
+ Sorted Data in ascending according to Grosspay: 
+___________________________________________________________________________________________________________________
+ind       ID                             Name                 Worked hours            Pay rate           Gross pay
+===================================================================================================================
+1         281393                  Willis, Sha'mir                     13              $13.00              $169.00
+2         246779                     Galindo, John                    12              $14.50              $174.00
+3         270081                  Peppers, Rasheen                    18              $15.00              $270.00
+4         114757                 McLennon, Natalie                    37              $12.25              $453.25
+5         240885                      Sadi, Tanvir                    32              $14.70              $470.40
+6         270079                    Quispe Jasmine                    46              $10.50              $483.00
+7         252830            Williams Christopher                      41              $12.00              $492.00
+8         276895                  Ramirez, Michell                    29              $17.00              $493.00
+9         18867                 Tapia, Christopher                    22              $22.50              $495.00
+10        272760                Franceschi, Justin                    25              $20.25              $506.25
+11        211692                       Bung, Munav                    45              $13.50              $607.50
+12        22295                       Plog, Daniel                    32              $20.00              $640.00
+13        252830                      Villa, Eduad                    34              $21.25              $722.50
+14        18795                     Nath, Nicholas                    37              $19.75              $730.75
+15        193280                   Perrone Albert                     51              $14.75              $752.25
+16        199593                     Galvez, Josue                    60              $12.75              $765.00
+17        34789                     Nelson, Nelson                    36              $23.75              $855.00
+18        256109                     Latero, Edwin                    43              $20.50              $881.50
+19        280515                  Rahman, Saminur                     45              $20.25              $911.25
